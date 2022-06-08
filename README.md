@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, my name is Shahidul Islam
+#### I am a full-stack PHP Developer
+![I am a full-stack PHP Developer](https://media-exp1.licdn.com/dms/image/C5616AQEd_xqJnn6jBg/profile-displaybackgroundimage-shrink_200_800/0/1643737966402?e=1660176000&v=beta&t=YuZGYQnUeezUuW_DUHhCliqp7fGvT63eB19TWwMWAU0)
+
+Hello viewers. Welcome to my profile. 
+
+I am a full-stack web developer and passionate about programming. I am an expert in HTML, CSS, JavaScript, jQuery, PHP, Ajax, OOP and laravel. I work professionally in this field for 2 years.
+
+I want an opportunity to work in a healthy, innovative and challenging environment which extracts the best out of me, enhance my skills and knowledge, make the learning curves as step as possible and be an asset to the organizations
+
+Skills: HTML / CSS / Javascript / jQuery / PHP / Laravel
+
+- 🔭 I’m currently working on DS Legends Ltd. Pte. Ltd. 
+- 🌱 I’m currently learning Vue.js 
 
 
-**shahidul890/shahidul890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidul890)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antorislam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/its.antorislam/)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
