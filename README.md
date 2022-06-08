@@ -8,7 +8,7 @@ I am a full-stack web developer and passionate about programming. I am an expert
 
 I want an opportunity to work in a healthy, innovative and challenging environment which extracts the best out of me, enhance my skills and knowledge, make the learning curves as step as possible and be an asset to the organizations
 
-Skills: HTML / CSS / Javascript / jQuery / PHP / Laravel
+Skills: HTML / CSS / Bootstrap / Javascript / jQuery / PHP / Laravel
 
 - 🔭 I’m currently working on DS Legends Pte. Ltd. as a laravel developer
 - 🌱 I’m currently learning Vue.js 
