@@ -10,7 +10,7 @@ I want an opportunity to work in a healthy, innovative and challenging environme
 
 Skills: HTML / CSS / Javascript / jQuery / PHP / Laravel
 
-- 🔭 I’m currently working on DS Legends Ltd. Pte. Ltd. 
+- 🔭 I’m currently working on DS Legends Ltd. Pte. Ltd. as a laravel developer
 - 🌱 I’m currently learning Vue.js 
 
 
