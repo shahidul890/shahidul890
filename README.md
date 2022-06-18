@@ -24,9 +24,9 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / PHP / Laravel
 - This is a MLM(Multi Level Marketing) website where user refers his friends and earn money using his crypto currency. For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 7
 
 #### NFT Marketplace -> <a href="https://alpha.physicalnft.org/" target="_blank">Physicalnft.org</a>
-- This is a simple NFT marketplace where user sells his personal NFT to others. For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
+- This is a simple NFT marketplace where user sells and promotes his personal NFT to others. For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
 
-
+<br><br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidul890)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antorislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/its.antorislam/)  
 
