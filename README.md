@@ -13,9 +13,8 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / PHP / Laravel
 - 🔭 I’m currently working on DS Legends Pte. Ltd. as a laravel developer
 - 🌱 I’m currently learning Vue.js 
 
-
-
-### Project I have done
+<br><br>
+### <u>Project I have done</u>
 
 #### School management system -> <a href="https://sonagazicollege.gov.bd/" target="_blank">Sonagazi Govt. College</a>
 - This is a simple dynamic website for educational institution where an admin upload regular notice and update all website content from admin site. Here also included online exam, online attendance etc. For this site I used HTML, CSS, Bootstrap, jQuery, PHP.
