@@ -14,16 +14,19 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / PHP / Laravel
 - 🌱 I’m currently learning Vue.js 
 
 
+
 ### Project I have done
 
 #### School management system -> <a href="https://sonagazicollege.gov.bd/" target="_blank">Sonagazi Govt. College</a>
-- For this site I used HTML, CSS, Bootstrap, jQuery, PHP.
+- This is a simple dynamic website for educational institution where an admin upload regular notice and update all website content from admin site. Here also included online exam, online attendance etc. For this site I used HTML, CSS, Bootstrap, jQuery, PHP.
 
 #### MLM Website -> <a href="https://fdxclick.com/" target="_blank">FDXClick.com</a>
-- For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 7
+- This is a MLM(Multi Level Marketing) website where user refers his friends and earn money using his crypto currency. For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 7
 
 #### NFT Marketplace -> <a href="https://alpha.physicalnft.org/" target="_blank">Physicalnft.org</a>
-- For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
+- This is a simple NFT marketplace where user sells his personal NFT to others. For this site I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidul890)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antorislam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/its.antorislam/)  
 
