@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shahidul Islam
 #### I am a full-stack PHP Developer
-![I am a full-stack PHP Developer](https://media-exp1.licdn.com/dms/image/C5616AQEd_xqJnn6jBg/profile-displaybackgroundimage-shrink_200_800/0/1643737966402?e=1660176000&v=beta&t=YuZGYQnUeezUuW_DUHhCliqp7fGvT63eB19TWwMWAU0)
+![I am a full-stack PHP / Laravel Developer](https://media-exp1.licdn.com/dms/image/C5616AQEd_xqJnn6jBg/profile-displaybackgroundimage-shrink_200_800/0/1643737966402?e=1660176000&v=beta&t=YuZGYQnUeezUuW_DUHhCliqp7fGvT63eB19TWwMWAU0)
 
 Hello viewers. Welcome to my profile. 
 
