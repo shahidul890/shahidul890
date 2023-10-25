@@ -19,6 +19,14 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vu
 
 ### Project I have done
 
+#### Lead Management -> <a href="https://leads.highlycoded.com/" target="_blank">Lead Gen Tracker</a>
+
+- This is a software solution for a marketing agency to manage & maintain their leads. Laravel and vue are the technologies I used here.
+
+#### Schedule booking system -> <a href="https://precisiondriving.uk/" target="_blank">Precision Driving UK</a>
+
+- Precision Driving UK offers expert driver training and consultancy services, ensuring drivers are skilled, confident, and equipped for any on-road situation. With a team of dedicated professionals, the platform focuses on enhancing driving skills, safety, and overall driving awareness. For this site, I used HTML, CSS, Bootstrap, jQuery, AJAX, PHP, Laravel 10, and Chatify.
+
 #### Educational Website -> <a href="https://sonagazicollege.gov.bd/" target="_blank">Sonagazi Govt. College</a>
 
 - This is a simple dynamic website for an educational institution where an admin uploads regular notices and updates all website content from the admin site. Here also included online exams, online attendance, etc. For this site, I used HTML, CSS, Bootstrap, jQuery, and PHP.
@@ -30,14 +38,6 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vu
 #### NFT Marketplace -> <a href="https://alpha.physicalnft.org/" target="_blank">Physicalnft.org</a>
 
 - This is a simple NFT marketplace where the user sells and promotes his personal NFT to others. For this site, I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
-
-#### Schedule booking system -> <a href="https://precisiondriving.uk/" target="_blank">Precision Driving UK</a>
-
-- Precision Driving UK offers expert driver training and consultancy services, ensuring drivers are skilled, confident, and equipped for any on-road situation. With a team of dedicated professionals, the platform focuses on enhancing driving skills, safety, and overall driving awareness. For this site, I used HTML, CSS, Bootstrap, jQuery, AJAX, PHP, Laravel 10, and Chatify.
-
-#### Lead Management -> <a href="https://leads.highlycoded.com/" target="_blank">Lead Gen Tracker</a>
-
-- This is a software solution for a marketing agency to manage & maintain their leads. Laravel and vue are the technologies I used here.
 
 <br><br>
 
