@@ -2,17 +2,17 @@
 
 #### I am a Software Engineer (PHP/Laravel)
 
-![I am a full-stack PHP / Laravel Developer](https://shahidull.com/assets/gifs/developer.gif)
+![banner](https://shahidull.com/assets/img/git.jpg)
 
 Hello viewers. Welcome to my profile.
 
-I am a full-stack web developer and passionate about programming. I am an expert in HTML, CSS, JavaScript, jQuery, PHP, Ajax, OOP and Laravel. I work professionally in this field for 3 years.
+I am a full-stack web developer and passionate about programming. I am an expert in HTML, CSS, JavaScript, jQuery, PHP, Ajax, OOP, Laravel, Vue Js. I work professionally in this field for 3 years.
 
 I want an opportunity to work in a healthy, innovative and challenging environment that extracts the best out of me, enhances my skills and knowledge, makes the learning curves as step as possible and be an asset to the organizations
 
 Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vue
 
-- 🔭 I’m currently working on Codecell Ltd. as a Laravel developer
+- 🔭 I’m currently working on Hamko ICT Ltd. as a Web Application Developer
 - 🌱 I’m currently learning React JS
 
 <br>
@@ -23,9 +23,13 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vu
 
 - This is a software solution for a marketing agency to manage & maintain their leads. Laravel and vue are the technologies I used here.
 
-#### Schedule booking system -> <a href="https://precisiondriving.uk/" target="_blank">Precision Driving UK</a>
+#### Course Management System (CMS) -> <a href="https://precisiondriving.uk/" target="_blank">Precision Driving UK</a>
 
 - Precision Driving UK offers expert driver training and consultancy services, ensuring drivers are skilled, confident, and equipped for any on-road situation. With a team of dedicated professionals, the platform focuses on enhancing driving skills, safety, and overall driving awareness. For this site, I used HTML, CSS, Bootstrap, jQuery, AJAX, PHP, Laravel 10, and Chatify.
+
+#### School Management System -> ![Shikkha](https://shikkha.one)
+
+- This is a software solution as SAAS model for educational institutions to manage & maintain their user attendance, finance, result and multiple users (like students, teachers, staffs). Laravel is the technology I used here.
 
 #### Educational Website -> <a href="https://sonagazicollege.gov.bd/" target="_blank">Sonagazi Govt. College</a>
 
