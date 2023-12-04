@@ -2,7 +2,7 @@
 
 #### I am a full-stack Developer (PHP/Laravel)
 
-![I am a full-stack PHP / Laravel Developer](https://media.licdn.com/dms/image/C5616AQEd_xqJnn6jBg/profile-displaybackgroundimage-shrink_350_1400/0/1643737966402?e=1701302400&v=beta&t=M3vXSNGyt1pZrhPA2knB0SvDyXwgmqbtMCgNtDHPTto)
+![I am a full-stack PHP / Laravel Developer](https://shahidull.com/assets/gifs/developer.gif)
 
 Hello viewers. Welcome to my profile.
 
