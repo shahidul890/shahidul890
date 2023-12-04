@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Shahidul Islam
+### Hi there 👋, my name is Md Shahidul Islam
 
-#### I am a full-stack Developer (PHP/Laravel)
+#### I am a Software Engineer (PHP/Laravel)
 
 ![I am a full-stack PHP / Laravel Developer](https://shahidull.com/assets/gifs/developer.gif)
 
