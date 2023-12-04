@@ -27,7 +27,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vu
 
 - Precision Driving UK offers expert driver training and consultancy services, ensuring drivers are skilled, confident, and equipped for any on-road situation. With a team of dedicated professionals, the platform focuses on enhancing driving skills, safety, and overall driving awareness. For this site, I used HTML, CSS, Bootstrap, jQuery, AJAX, PHP, Laravel 10, and Chatify.
 
-#### School Management System -> <a href="https://shikkha.one/" target="_blank">Shikkha</a>
+#### School Management System -> <a href="https://shikkha.one/" target="__blank">Shikkha</a>
 
 
 - This is a software solution as SAAS model for educational institutions to manage & maintain their user attendance, finance, result and multiple users (like students, teachers, staffs). Laravel is the technology I used here.
