@@ -1,53 +1,47 @@
-### Hi there 👋, my name is Md Shahidul Islam
+### Hi there 👋, I am [Shahidul](https://shahidull.com/)! 😁
 
-#### I am a Software Engineer (PHP/Laravel)
+<!--
+**shahidul890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
 
-![banner](https://shahidull.com/assets/img/git.jpg)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Statistics
+- 👯 I’m looking to collaborate on ...
+-->
 
-Hello viewers. Welcome to my profile.
+Hello, my name is Md Shahidul Islam. I am a full-stack web developer 3+ years of experience.
 
-I am a full-stack web developer and passionate about programming. I am an expert in HTML, CSS, JavaScript, jQuery, PHP, Ajax, OOP, Laravel, Vue Js. I work professionally in this field for 3 years.
-
-I want an opportunity to work in a healthy, innovative and challenging environment that extracts the best out of me, enhances my skills and knowledge, makes the learning curves as step as possible and be an asset to the organizations
-
-Skills: HTML / CSS / Bootstrap / Javascript / jQuery / Ajax / PHP / Laravel / Vue
-
-- 🔭 I’m currently working on Hamko ICT Ltd. as a Web Application Developer
-- 🌱 I’m currently learning React JS
-
-<br>
-
-### Project I have done
-
-#### Lead Management -> <a href="https://leads.highlycoded.com/" target="_blank">Lead Gen Tracker</a>
-
-- This is a software solution for a marketing agency to manage & maintain their leads. Laravel and vue are the technologies I used here.
-
-#### Course Management System (CMS) -> <a href="https://precisiondriving.uk/" target="_blank">Precision Driving UK</a>
-
-- Precision Driving UK offers expert driver training and consultancy services, ensuring drivers are skilled, confident, and equipped for any on-road situation. With a team of dedicated professionals, the platform focuses on enhancing driving skills, safety, and overall driving awareness. For this site, I used HTML, CSS, Bootstrap, jQuery, AJAX, PHP, Laravel 10, and Chatify.
-
-#### School Management System -> <a href="https://shikkha.one/" target="__blank">Shikkha</a>
+- 🔭 I’m currently employed by HAMKO ICT Limited as a Web application developer [HAMKO ICT Limited](http://hamkoict.com.bd)
+- 🌱 I’m currently learning Node.js
+- 💬 Brainstorm with me over tech, algorithms, career, and music
+- 📫 How to reach me: <contact.shahidul@gmail.com>
+- 😄 Pronouns: Programmer/He/Him
+- 📝 [Portfolio](https://shahidull.com)
 
 
-- This is a software solution as SAAS model for educational institutions to manage & maintain their user attendance, finance, result and multiple users (like students, teachers, staffs). Laravel is the technology I used here.
+**Languages and Tools:** 
 
-#### Educational Website -> <a href="https://sonagazicollege.gov.bd/" target="_blank">Sonagazi Govt. College</a>
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel%20Framework-black?logo=laravel&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-black?logo=vue&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwind&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-- This is a simple dynamic website for an educational institution where an admin uploads regular notices and updates all website content from the admin site. Here also included online exams, online attendance, etc. For this site, I used HTML, CSS, Bootstrap, jQuery, and PHP.
+![Shahidul's Github Stats](https://github-readme-stats.vercel.app/api?username=shahidul890&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidul890&hide=TeX&layout=compact)
 
-#### MLM Website -> <a href="https://fdxclick.com/" target="_blank">FDXClick.com</a>
-
-- This is an MLM(Multi Level Marketing) website where the user refers his friends and earns money using his cryptocurrency. For this site, I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 7
-
-#### NFT Marketplace -> <a href="https://alpha.physicalnft.org/" target="_blank">Physicalnft.org</a>
-
-- This is a simple NFT marketplace where the user sells and promotes his personal NFT to others. For this site, I used HTML, CSS, Bootstrap, jQuery, PHP, Laravel 8
-
-<br><br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahidul890)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdshahidul/)
-[<img src='https://www.svgrepo.com/show/513205/globe-1.svg' alt='website' height='40'>](https://shahidull.com/)
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/its.antorislam/) -->
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shahidul890.shahidul890)
