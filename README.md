@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Shahidul](https://shahidull.com/)! 😁
+### Hi there 👋, I am [Shahidul](https://shahidul.com.bd)! 😁
 
 <!--
 **shahidul890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Hello, my name is Md Shahidul Islam. I am a full-stack web developer 3+ years of
 - 🔭 I’m currently employed by HAMKO ICT Limited as a Web application developer [HAMKO ICT Limited](http://hamkoict.com.bd)
 - 🌱 I’m currently learning Node.js
 - 💬 Brainstorm with me over tech, algorithms, career, and music
-- 📫 How to reach me: <contact.shahidul@gmail.com>
+- 📫 How to reach me: <contact.shahidul@gmail.com> <hello@shahidul.com.bd>
 - 😄 Pronouns: Programmer/He/Him
-- 📝 [Portfolio](https://shahidull.com)
+- 📝 [Portfolio](https://shahidul.com.bd)
 
 
 **Languages and Tools:** 
