@@ -53,15 +53,16 @@ I am a passionate full-stack web developer with over five years of experience in
 - Integrated RESTful APIs and optimized database queries for better performance.
 - Collaborated with designers and backend developers to deliver high-quality projects.
 
+#### **Codecell Limited** – *Full-Stack Developer* (2022-2024)
+- Developed enterprise-level web applications for business automation.
+- Implemented user authentication and role-based access controls.
+- Led a team of junior developers, mentoring them on best coding practices.
+
 #### **Freelance Web Developer** – *Upwork & Fiverr* (2020)
 - Successfully completed multiple projects for international clients.
 - Built dynamic and responsive websites using PHP, Laravel, and JavaScript frameworks.
 - Provided customized web solutions, including e-commerce and business management systems.
 
-#### **Codecell Limited** – *Full-Stack Developer* (2022-2024)
-- Developed enterprise-level web applications for business automation.
-- Implemented user authentication and role-based access controls.
-- Led a team of junior developers, mentoring them on best coding practices.
 
 ---
 
