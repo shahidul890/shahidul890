@@ -1,4 +1,4 @@
-# Hi, I'm Shahidul 🚀
+# 👋Hi, I'm Shahidul
 
 **Expert Full-Stack Web Developer | 5+ Years of Experience**
 
@@ -10,7 +10,7 @@ I bring over 5 years of solid experience as a full-stack web developer, having s
 I'm passionate about learning, sharing knowledge, and contributing to the developer community.
 
 - 🔭 Currently working at **HAMKO ICT Limited** as a Web Application Developer.
-- 🌱 Exploring **Node.js** to enhance backend capabilities.
+- 🌱 Exploring **Kotlin** to get experience on Mobile Application.
 - 💡 Open to discussions on technology, algorithms, career advice.
 - 📬 Reach me at: [hello@mdshahidul.com](mailto:hello@mdshahidul.com)
 - 🌍 Visit my [Portfolio](https://mdshahidul.com)
